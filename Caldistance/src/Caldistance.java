@@ -1,7 +1,4 @@
-/**
- * @author dell
- *
- */
+﻿
 public class Caldistance {
 
 	private static double EARTH_RADIUS = 6371.393;  
